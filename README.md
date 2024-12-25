@@ -2,6 +2,18 @@
 Logic to charge a battery based on the voltages defined
 
 # Protocols
+
+## Program the Attiny85
+### Preconfig
+- In preferences inside the arduino IDE add: `https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_digistump_index.json`
+- Install the `Digistump AVR Boards` in the boards manager
+- Choose board: `Digistump AVR Boards > Digispark (Default - 16.5mhz)`
+- Choose Programmer: `Micronucleus`
+### Upload
+Pin 5 is reset when pulled down so it will interfere with the upload
+- Press Upload Code
+- Connect usb and power up battery 1 at the same time
+
 ## Voltage Sensors Calibration
 To calibrate the sensors:
 - Add logging to the code to show the raw analog input values
