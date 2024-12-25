@@ -1,0 +1,8 @@
+- U1: [5W DC 5-40V To 5V DC DC Step-Down Buck Converte For USB Smart Phone Charger Solar Portable Mobile Power Supply](https://es.aliexpress.com/item/1005007168309841.html?spm=a2g0o.order_list.order_list_main.17.4413194dJT0A77&gatewayAdapt=glo2esp)
+- U2: [KY-019 5V One 1 Channel Relay Module Board Shield](https://es.aliexpress.com/item/1005007598074881.html?spm=a2g0o.order_list.order_list_main.32.4413194dJT0A77&gatewayAdapt=glo2esp)
+- U3: [GY Attiny85 Digispark kickstarter Mini USB Development Board Module Tiny85](https://www.aliexpress.com/item/1005003660800280.html?spm=a2g0o.order_list.order_list_main.22.4413194dJT0A77&gatewayAdapt=glo2esp)
+- U4: [Step Up Module Power Step down Module DC5-30V to 1.25-30V Automatic Step UP/Down Converter Boost/Buck Voltage Regulator Module](https://www.aliexpress.com/item/1005007252563822.html?spm=a2g0o.order_list.order_list_main.37.4413194dJT0A77&gatewayAdapt=glo2esp)
+- R1: TH 6K8Ω
+- R2: TH 20KΩ
+- R3: TH 6K8Ω
+- R4: TH 20KΩ
